@@ -1,0 +1,16 @@
+.header{
+     
+    margin: 25px;
+    background-color: black;
+    
+}
+.leftheader{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ a{
+    font-size: 22px;
+    text-decoration: none;
+ }
